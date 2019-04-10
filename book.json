@@ -1,7 +1,10 @@
 {
-    "pluginsConfig":{
-        "theme-default":{
-            "showLevel":true
-        }
+  "plugins": [
+    "back-to-top-button"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true
     }
+  }
 }
