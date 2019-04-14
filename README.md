@@ -18,8 +18,10 @@ clone代码使用的是`git clone`命令，有时候由于网络原因，`go get
 临时生效，关闭终端 `export` 的环境变量就没有了，要想永久生效就要配置到环境变量配置文件里面
 
 ```bash
-export http_proxy=socks5://127.0.0.1:1080
-export https_proxy=socks5://127.0.0.1:1080
+
+$ export http_proxy=socks5://127.0.0.1:1080
+$ export https_proxy=socks5://127.0.0.1:1080
+
 ```
 
 ### 方式二：通过git代理设置
@@ -37,7 +39,9 @@ $ git config --global --unset https.proxy
 ### 方式三：只为当前命令生效
 
 ```bash
+
 $ https_proxy=socks5://127.0.0.1:1080 go get -u github.com/beego/bee
+
 ```
 
 
