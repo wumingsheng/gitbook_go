@@ -8,6 +8,7 @@
     * [指针](基础语法/pointer.md)
 * [beego框架](beego/readme.md)
     * [RESTful路由](beego/restful.md)
+    * [imooc商品详情页案例](beego/imooc-demo.md)
 * [Gin框架](gin/readme.md)
     * [RESTful路由](gin/restful.md)
 
