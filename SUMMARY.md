@@ -18,13 +18,14 @@
         * [06 | 程序实体的那些事儿（下）](GeekBang/go-core36/06.md)
         * [07 | 数组和切片](GeekBang/go-core36/07.md)
         * [08 | container包中的那些容器](GeekBang/go-core36/08.md)
+        * [09 | 字典的操作和约束](GeekBang/go-core36/09.md)
+        * [10 | 通道的基本操作](GeekBang/go-core36/10.md)
+        * [11 | 通道的高级玩法](GeekBang/go-core36/11.md)
+        * [12 | 使用函数的正确姿势](GeekBang/go-core36/12.md)
+        * [13 | 结构体及其方法的使用法门](GeekBang/go-core36/13.md)
 * [beego框架](beego/readme.md)
     * [RESTful路由](beego/restful.md)
     * [imooc商品详情页案例](beego/imooc-demo.md)
 * [Gin框架](gin/readme.md)
     * [RESTful路由](gin/restful.md)
-
-
-
-
 
